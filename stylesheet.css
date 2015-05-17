@@ -1,7 +1,6 @@
 body {
 
      width: 7.5in;
-     padding: 0.5in;
      
 
     border-style: double;
@@ -21,7 +20,7 @@ body {
     
 }
 .content {background-color: lightgray;
-padding:0;
+padding:0.5in;
 
 
 }
